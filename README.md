@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="![Sharvil_Nichat](https://github.com/sharvil112003/sharvil112003/assets/104116728/c83eae2d-e930-409d-bf0d-0cdb018aa4b0)"  />
-</div>
+<h1 align="center">Hey there! I am Sharvil ! 👋</h1>
 
 ###
 
@@ -21,10 +19,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sharvil112003.sharvil112003&"  />
 </div>
-
-###
-
-<h1 align="center">Hey there! I am Sharvil ! 👋</h1>
 
 ###
 
