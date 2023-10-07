@@ -83,6 +83,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sharvil112003/sharvil112003/output/snake.svg" alt="Snake animation" />
-
 ###
