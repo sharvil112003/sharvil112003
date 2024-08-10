@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A pre-final year student at VIIT, Pune.<br><br>- 🔭 I’m working as Software Developer at Denner.<br>- 📚 I'm currently learning Flutter ,DSA.<br>- ⚡ In my free time I love to study finances and read books.</p>
+<p align="left">A final year student at VIIT, Pune.<br><br>- 🔭 I’m working as Software Developer at Denner.<br>- 📚 I'm currently learning Flutter ,DSA.<br>- ⚡ In my free time I love to study finances and read books.</p>
 
 ###
 
