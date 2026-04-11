@@ -28,7 +28,7 @@
 
 ```python
 sharvil = {
-    "currently"  : "Final-year B.Tech CS @ VIIT Pune (CGPA: 9.48)",
+    "currently"  : "B.Tech CS @ VIIT Pune (CGPA: 9.48)",
     "research"   : ["LSTM + BERT Stock Prediction", "Adaptive ML (IEEE IDCIoT 2024)"],
     "competition": "Top 20% — 78/385 teams @ GöQuant Kaggle IV Forecasting",
     "copyright"  : "Govt. of India Copyright — Sensors Integrated Chatbot (L134831/2023)",
