@@ -32,7 +32,7 @@ sharvil = {
     "research"   : ["LSTM + BERT Stock Prediction", "Adaptive ML (IEEE IDCIoT 2024)"],
     "competition": "Top 20% — 78/385 teams @ GöQuant Kaggle IV Forecasting",
     "copyright"  : "Govt. of India Copyright — Sensors Integrated Chatbot (L134831/2023)",
-    "interests"  : ["Applied ML", "LLM Integration", "NLP", "High-Frequency Systems"],
+    "interests"  : ["Applied ML", "LLM Integration", "NLP", "Deep Learning", "Computer Vision"],
     "looking_for": "Research Internship (8 months) | MS @ Top-30 US Universities"
 }
 ```
