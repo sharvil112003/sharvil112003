@@ -86,7 +86,7 @@ sharvil = {
 |---|---|---|
 | [📈 Smart Investments](https://github.com/sharvil112003/stockpredictionML) | Python, LSTM, BERT, Flask, Streamlit | Stock price prediction for 10 Nifty50 companies · 3.5% MAE · Sentiment analysis |
 | [⚡ IV Forecasting](https://github.com/sharvil112003/Implied-volatility-forecasting) | Python, LightGBM, Pandas | **Top 20% Kaggle** · 80+ features · ETH high-frequency order book |
-| [🤖 MiniSH](https://github.com/sharvil112003/MiniSH) | Python, Bash, Gemini API | LLM-powered CLI shell · Natural language command execution |
+| [🤖 MiniSH]([https://github.com/sharvil112003/MiniShell]) | Python, Bash, Gemini API | LLM-powered CLI shell · Natural language command execution |
 | [💹 DeriBot](https://github.com/sharvil112003/DeriBot) | C++, CMake, WebSocket | Low-latency trading system · Deribit Testnet · Multithreading |
 
 ---
